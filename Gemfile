@@ -6,6 +6,7 @@ gem 'rails', '4.0.0.beta1'
 
 gem 'pg'
 
+
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
@@ -23,6 +24,7 @@ gem 'rails_log_stdout',           github: 'heroku/rails_log_stdout'
 gem 'rails3_serve_static_assets', github: 'heroku/rails3_serve_static_assets'
 gem 'devise'
 gem 'protected_attributes'
+gem 'bootstrap-sass'
 
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
 gem 'turbolinks'
